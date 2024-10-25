@@ -1,0 +1,8 @@
+requests
+sqlite3
+matplotlib
+smtplib
+schedule
+
+
+pip install -r requirements.txt
